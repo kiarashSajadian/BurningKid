@@ -12,8 +12,7 @@ With a background in graphics and motion design, I bring a unique combination of
 ## Connect with Me 📬
 - 📫 [Email](mailto:kiarashsajadian@gmail.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/kiarash-sajadian-front-end-developer/)
-- 💻 [Webflow Portfolio](https://webflow.com/@lumana-studio)
-- 💻 [WordPress Portfolio](https://www.lumanastudio.com/)
+- 💻 [Lumana Studio](https://www.lumanastudio.com/)
 
 I’m looking forward to collaborating on projects at the intersection of technology and social good. Let’s connect! 🌍
 
